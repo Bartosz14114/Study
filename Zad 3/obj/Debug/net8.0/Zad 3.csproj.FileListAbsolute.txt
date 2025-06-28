@@ -1,0 +1,14 @@
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.AssemblyInfoInputs.cache
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.AssemblyInfo.cs
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.csproj.CoreCompileInputs.cache
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\bin\Debug\net8.0\Zad 3.exe
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\bin\Debug\net8.0\Zad 3.deps.json
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\bin\Debug\net8.0\Zad 3.runtimeconfig.json
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\bin\Debug\net8.0\Zad 3.dll
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\bin\Debug\net8.0\Zad 3.pdb
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.dll
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\refint\Zad 3.dll
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.pdb
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\Zad 3.genruntimeconfig.cache
+C:\Users\Bartosh\source\repos\ConsoleApp10\Zad 3\obj\Debug\net8.0\ref\Zad 3.dll
